@@ -70,7 +70,16 @@ Gracias al avance de la vacunación, la **tasa de mortalidad comenzó a descende
 - `/data/` → Base original en Excel
 - `README.md` → Este archivo
 
-## RESULTADO DE PROYECTO CORREGIDO POR CODERHOUSE. Hola, mi nombre es Alfredo Parente, me han asignado la corrección de tu trabajo Final. Muy bueno tu proyecto final! ¡Excelente el diseño del dashboard! La documentación está muy bien hecha, es muy clara y organizada ¡Veo que pudiste aplicar todo lo visto durante el curso y cumpliste con todas las rubricas del entregable final! Te paso un sumario: · Objetivo: El alcance del proyecto se ajusta completamente a la temática y a la base de datos, por esta razón el tablero permite hacer un análisis completo de la información relevada. · Hipótesis, alcance y tipos de análisis: El nivel de aplicación de análisis es claro y se justifica correctamente, además el tablero se ajusta completamente a lo definido. Base de datos: Todas las tablas se relacionan completamente con la temática del proyecto. La historia tiene tres o más periodos y la cantidad de datos por periodos es congruente. · Las transformaciones documentadas, con la fecha en la que se implementaron, son completamente claras y se evidencian en su totalidad en el tablero. · Las medidas y los campos calculados se exponen de forma clara y la cantidad en lista corresponde con la implementada en el tablero. · La implementación de los campos para segmentación en la documentación y en el tablero coinciden correctamente. · Las medidas que incluyen variable o parámetro permiten obtener un resultado correcto para el análisis. · Todos los campos cuentan con las transformaciones necesarias.
+## RESULTADO DE PROYECTO CORREGIDO POR CODERHOUSE. 
+Hola, mi nombre es Alfredo Parente, me han asignado la corrección de tu trabajo Final. Muy bueno tu proyecto final!
+¡Excelente el diseño del dashboard! La documentación está muy bien hecha, es muy clara y organizada ¡Veo que pudiste aplicar todo lo visto durante el curso y cumpliste con todas las rubricas del entregable final!
+Te paso un sumario: ·
+Objetivo: El alcance del proyecto se ajusta completamente a la temática y a la base de datos, por esta razón el tablero permite hacer un análisis completo de la información relevada. · Hipótesis, alcance y tipos de análisis: El nivel de aplicación de análisis es claro y se justifica correctamente, además el tablero se ajusta completamente a lo definido.
+Base de datos: Todas las tablas se relacionan completamente con la temática del proyecto.
+La historia tiene tres o más periodos y la cantidad de datos por periodos es congruente. ·
+Las transformaciones documentadas, con la fecha en la que se implementaron, son completamente claras y se evidencian en su totalidad en el tablero. ·
+Las medidas y los campos calculados se exponen de forma clara y la cantidad en lista corresponde con la implementada en el tablero. · La implementación de los campos para segmentación en la documentación y en el tablero coinciden correctamente. · 
+Las medidas que incluyen variable o parámetro permiten obtener un resultado correcto para el análisis.Todos los campos cuentan con las transformaciones necesarias.
 --
 
 ## ✅ Nota final del proyecto: **10 / 10**
