@@ -19,6 +19,15 @@ La visualización fue construida con **Power BI**, utilizando como fuente princi
 - Análisis por laboratorio (Pfizer, Sputnik V, etc.)
 - Avance de esquemas completos vs. primeras dosis
 - Indicadores clave globales
+- 
+- ## 🔄 Navegación Interactiva
+
+El dashboard está diseñado con **botones interactivos** que mejoran la experiencia de usuario:
+
+- Cada imagen en la **portada** actúa como botón que dirige a su respectiva solapa temática.
+- Cada solapa cuenta con un botón para **volver al inicio**, permitiendo una navegación clara, rápida e intuitiva.
+
+Esto facilita la exploración de datos, incluso para usuarios sin experiencia en herramientas de análisis.
 
 ---
 
