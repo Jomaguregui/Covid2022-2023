@@ -80,7 +80,7 @@ La historia tiene tres o más periodos y la cantidad de datos por periodos es co
 Las transformaciones documentadas, con la fecha en la que se implementaron, son completamente claras y se evidencian en su totalidad en el tablero. ·
 Las medidas y los campos calculados se exponen de forma clara y la cantidad en lista corresponde con la implementada en el tablero. · La implementación de los campos para segmentación en la documentación y en el tablero coinciden correctamente. · 
 Las medidas que incluyen variable o parámetro permiten obtener un resultado correcto para el análisis.Todos los campos cuentan con las transformaciones necesarias.
---
+---
 
 ## ✅ Nota final del proyecto: **10 / 10**
 
